@@ -1,3 +1,6 @@
+v1.0.3  
+"liyunfang/yii2-kartik-require" 升级到 "1.0.2",
+
 v1.0.2 2015-10-14 14:53  
 
 移除yii2-bower-require依赖
